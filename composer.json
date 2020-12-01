@@ -9,7 +9,6 @@
         "kevinrob/guzzle-cache-middleware": "^1.4",
         "ecomdev/magento-psr6-bridge": "^0.2.1",
         "symfony/stopwatch": "~4.0",
-        "bakame/psr7-csv-factory": "dev-master",
         "league/csv": "^9.1"
     },
     "type": "magento2-module",
